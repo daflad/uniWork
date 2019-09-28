@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"uniWork/models"
+
+	"github.com/daflad/uniWork/models"
 )
 
 func main() {
